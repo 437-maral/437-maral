@@ -1,7 +1,7 @@
   ## Hi there 👋
 
-# 💫 About Me:
-Developing an application for infection tracking in a hospital in Greifswald, bring medical soultiln for clinicial in a hospital.<br><br>Interested in AI agentic systems and autonomous workflows.<br><br>I enjoy working at the intersection of applied machine learning, intelligent systems, and real-world problem solving.<br><br>Fun fact: I am interested in panpsychism, consciousness, and quantum physics.
+# 💫 About Me
+Developing an application for infection tracking at University Medicine Greifswald, providing clinicians with a practical digital solution to support hospital infection monitoring and outbreak detection.<br><br>Interested in AI agentic systems and autonomous workflows.<br><br>I enjoy working at the intersection of applied machine learning, intelligent systems, and real-world problem solving.<br><br>Fun fact: I am interested in panpsychism, consciousness, and quantum physics.
 
 
 # 💻 Tech Stack:
